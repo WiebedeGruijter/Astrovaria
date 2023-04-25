@@ -159,7 +159,7 @@ appendix = 'pws_3D'
 start_nr = 49        # selection of snapshot files in the directory, if only one snapshot: 0, 1
 end_nr = 50
 
-numbers = [35, 45, 55, 66, 76] # selection of snapshot files in the directory, if only one snapshot: 0, 1
+numbers = [35, 45, 55, 66, 76] # selection of snapshot files in the directory, if only one snapshot: 0, 1 
 
 mylevel = 3         # resolution level, choose between 1 and 5
 
